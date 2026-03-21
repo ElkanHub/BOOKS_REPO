@@ -5,7 +5,7 @@
 
 ## Opening Hook (300–400 words)
 
-Think about your cousin Kwame. Kwame is twenty-six, works at a bank in Accra, dresses in a crisp white shirt every morning, and spends his weekends telling everyone why "the only way to succeed is to get a stable job and buy land." Kwame sounds very certain. He sounds like a man who has it all figured out. But if you sit Kwame down and ask him exactly why he believes that, he’ll start stuttering. He’ll tell you it’s "common sense." He’ll say it’s what his father did. He’ll say it’s what everyone who is "serious" does.
+Take a look at Kwame. Kwame is twenty-six, works at a bank in Accra, dresses in a crisp white shirt every morning, and spends his weekends telling everyone why "the only way to succeed is to get a stable job and buy land." Kwame sounds very certain. He sounds like a man who has it all figured out. But if you sit Kwame down and ask him exactly why he believes that, he’ll start stuttering. He’ll tell you it’s "common sense." He’ll say it’s what his father did. He’ll say it’s what everyone who is "serious" does.
 
 Kwame isn't thinking. Kwame is playing a recording.
 
