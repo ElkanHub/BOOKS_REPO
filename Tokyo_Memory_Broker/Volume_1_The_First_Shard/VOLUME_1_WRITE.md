@@ -111,7 +111,113 @@
 - **Goal:** Ren makes the choice to stop being a Broker and start being a Fugitive.
 - **Hook:** Ren deletes his own Broker license, effectively "dying" to the system.
 
-### [ACT 2B & ACT 3 PLAN TO BE REFINED DURING WRITING]
+### Chapter 13: The Burning Anchor
+- **POV:** Ren Sato
+- **Scene:** Returning to the safehouse to find it under siege by a new Easer unit.
+- **Goal:** The loss of his "Personal Anchor" Shards. Ren realizes he can't go back.
+- **Hook:** Tanaka’s voice on his own comms: "The past was always a temporary loan, Ren."
+
+### Chapter 14: Resistance of the Hollowed
+- **POV:** Hana
+- **Scene:** Taking Ren to a hidden colony of the "Hollowed" in the Shibuya ruins.
+- **Goal:** Show the communal survival of those who lost their memories.
+- **Hook:** Meeting "The Elder," a man who was once the Director's rival.
+
+### Chapter 15: The Director’s Ghost
+- **POV:** Ren Sato
+- **Scene:** Ren trying to sync with a communal "Echo-Pile" to find a specific key.
+- **Goal:** Dealing with more intense "Echo-Rot." Seeing the Director's cruelty firsthand.
+- **Hook:** Ren discovers he didn't just build the Loom; he enjoyed its power.
+
+### Chapter 16: The Loom’s Heart
+- **POV:** Ren Sato
+- **Scene:** Planning the infiltration of the Kanda Satellite-Link Tower.
+- **Goal:** Technical preparation and character bonding between Ren and Hana.
+- **Hook:** A betrayal from within the Hollowed colony leads the Easers to them.
+
+### Chapter 17: The Grey Zone War
+- **POV:** Hana
+- **Scene:** A full-scale battle in the ruins between the Hollowed and Syndicate forces.
+- **Goal:** Show the cost of the conflict. Hana’s desperation to save her people.
+- **Hook:** Ren uses a "Broker-Pulse" to disable a whole squad—a skill he shouldn't have known.
+
+### Chapter 18: Betrayal of Memory
+- **POV:** Ren Sato
+- **Scene:** Infiltrating the tower. Encountering Enforcer Kenji, the lead Easer.
+- **Goal:** Action and the realization that Kenji is another "Rebirth" experiment.
+- **Hook:** Kenji remembers Ren as his mentor, not his enemy.
+
+### Chapter 19: The Silence of the Shard
+- **POV:** Ren Sato
+- **Scene:** The top of the tower. Faced with the Master-Loom server.
+- **Goal:** Psychological tension. The Loom offers to restore Ren's full memory if he stops.
+- **Hook:** Ren sees the file of Arisawa’s daughter—it’s not Hana.
+
+### Chapter 20: The Dark Point (Act 2B Ending)
+- **POV:** Ren Sato
+- **Scene:** The revelation of the "Two-Hana" problem.
+- **Goal:** Ren realizes he’s being manipulated by both sides. 
+- **Hook:** Being captured by Tanaka at the moment of supposed victory.
+
+### Chapter 21: The Gilded Cage
+- **POV:** Ren Sato
+- **Scene:** Imprisoned in a "Luxury-Archive" within the Syndicate HQ.
+- **Goal:** Psychological interrogation by Tanaka.
+- **Hook:** Tanaka reveals that the "Recorded Future" is already happening.
+
+### Chapter 22: The Broken Reflection
+- **POV:** Hana
+- **Scene:** Hana attempting a solo rescue of Ren.
+- **Goal:** Show her growth and independence.
+- **Hook:** She finds a room full of "Ren Sato" clones in stasis.
+
+### Chapter 23: The Voice of the Architect
+- **POV:** Ren Sato
+- **Scene:** Ren communicating with the "Original Sato" data-ghost within the Loom.
+- **Goal:** Ren accepts the "monster" inside he once was to gain control.
+- **Hook:** The Loom begins to "bleed" memory into the city autonomously.
+
+### Chapter 24: Shinjuku on Fire
+- **POV:** Ren Sato
+- **Scene:** Escaping the HQ as the city descends into "Collective Echo-Rot."
+- **Goal:** Dramatic visuals of a city losing its mind.
+- **Hook:** Meeting the real daughter of Arisawa—now a Syndicate executive.
+
+### Chapter 25: The Choice of the Shard
+- **POV:** Ren Sato
+- **Scene:** A standoff between Ren, Hana, and the Executive.
+- **Goal:** The dramatic peak of the theme of identity.
+- **Hook:** Ren chooses to trust his shared experiences with Hana over his biological past.
+
+### Chapter 26: The Siege of the Loom
+- **POV:** Hana
+- **Scene:** The Hollowed and Ren attacking the Master-Loom for the final time.
+- **Goal:** Large-scale action.
+- **Hook:** Enforcer Kenji switches sides to protect Ren.
+
+### Chapter 27: The Shared-Trauma
+- **POV:** Ren Sato
+- **Scene:** The final battle against Tanaka, who is now a "Human-Loom" hybrid.
+- **Goal:** Ren uses the technique of sharing his own "Self-Death" to overwhelm Tanaka.
+- **Hook:** Tanaka’s brain begins to melt under the weight of the truth.
+
+### Chapter 28: The Ending Revelation
+- **POV:** Ren Sato
+- **Scene:** The Loom is deactivated. The silence of Neo-Tokyo.
+- **Goal:** The physical realization: Ren has no heartbeat. His body is purely synth-bio. 
+- **Hook:** He is the first "Live-Data" vessel. He can never die because he was never alive.
+
+### Chapter 29: The Last Remembrance
+- **POV:** Hana
+- **Scene:** Shibuya, weeks later. The city is learning to remember its own pain again.
+- **Goal:** The emotional aftermath.
+- **Hook:** A new "Broker" appears, but they're harvesting Joy instead of Trauma.
+
+### Chapter 30: The Image of the Void
+- **POV:** Ren Sato
+- **Scene:** Standing on the roof of the Shinjuku spire, looking at the rain.
+- **Goal:** Final resolution of the Central Dramatic Question.
+- **Hook:** Ren accepts his status as a guardian of memory. Final image: He closes his eyes and, for the first time, remembers nothing.
 
 ---
 
