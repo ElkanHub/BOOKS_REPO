@@ -46,10 +46,72 @@
 - **Hook:** The call for the "High-Value" harvest in Akihabara.
 
 ### Chapter 2: Dust in Akihabara
+- **POV:** Ren Sato
 - **Scene:** Navigating the "Electrical Deadzone" to find Dr. Arisawa.
-- **Emotional Note:** Dread. Something is wrong with this harvest.
+- **Goal:** Establish the setting of the ruins and the sense of dread.
+- **Hook:** Arisawa is alive, but barely, and surrounded by Syndicate-hacked drones.
 
-[Remaining chapters to be expanded during writing]
+### Chapter 3: The Surgeon’s Hand
+- **POV:** Ren Sato
+- **Scene:** The actual harvest of Dr. Arisawa. Syndicate Easers closing in.
+- **Goal:** The extraction of the "Self-Death" Shard and Arisawa's final warning.
+- **Hook:** Arisawa’s whisper: "You were the first, Ren."
+
+### Chapter 4: Escape from Sector 7
+- **POV:** Ren Sato
+- **Scene:** A high-octane chase through the narrow, rain-slicked alleys of Akihabara.
+- **Goal:** Show Ren's resourcefulness and the Syndicate's lethality.
+- **Hook:** Ren escapes, but realizes he’s been tagged with a tracer Shard.
+
+### Chapter 5: The Anchor Hole
+- **POV:** Ren Sato
+- **Scene:** Ren returning to his "safehouse" and trying to find the tracer.
+- **Goal:** Introduce Ren's stash of "Personal Anchor" Shards and his internal void.
+- **Hook:** He finds the tracer—it’s not on his clothes, but embedded in his own spinal port.
+
+### Chapter 6: The Taste of Truth
+- **POV:** Ren Sato
+- **Scene:** Ren riskily "tastes" a fragment of Arisawa's Shard.
+- **Goal:** The visual of Ren seeing himself on a surgical table.
+- **Hook:** The memory isn't third-person; it's first-person. He is the one dying.
+
+### Chapter 7: The Shibuya Ghost
+- **POV:** Ren Sato
+- **Scene:** Ren going undercover in Shibuya to find someone who knew Arisawa.
+- **Goal:** Introduce the "Hollowed" culture and the ruins of the old city.
+- **Hook:** Meeting Hana, who is wearing a pendant that matches a detail in his vision.
+
+### Chapter 8: The Girl Who Remembers
+- **POV:** Hana
+- **Scene:** Hana’s perspective on Ren. She thinks he’s an "Easer" at first.
+- **Goal:** Establish Hana’s character—desperate, sharp, and protected by "Spirit-tech."
+- **Hook:** Hana pulls out an old photograph of Ren—but he’s wearing a Syndicate Director’s uniform.
+
+### Chapter 9: Static Conversations
+- **POV:** Ren Sato
+- **Scene:** Ren and Hana in a hidden underground bunker beneath Shibuya.
+- **Goal:** Sharing information. Ren realizes his entire biography is a lie.
+- **Hook:** A Syndicate "Pulse-Wave" hits the district, forcing them to flee.
+
+### Chapter 10: The Market for Misery
+- **POV:** Ren Sato
+- **Scene:** Infiltrating a high-end Memory Lounge to use their "Deep-Reader" tech.
+- **Goal:** Verify the authenticity of the "Self-Death" Shard.
+- **Hook:** The Shard is "Signed" by the Kanda Loom—it was never meant to be harvested.
+
+### Chapter 11: Echo-Rot
+- **POV:** Hana
+- **Scene:** Hana guarding Ren while he’s under the Deep-Reader.
+- **Goal:** Show the dangers of the tech and Hana's growing empathy for Ren.
+- **Hook:** Ren starts speaking in a different voice—the voice of Director Sato.
+
+### Chapter 12: The Midpoint Bridge
+- **POV:** Ren Sato
+- **Scene:** A confrontation with a low-level Syndicate Broker who recognized Ren.
+- **Goal:** Ren makes the choice to stop being a Broker and start being a Fugitive.
+- **Hook:** Ren deletes his own Broker license, effectively "dying" to the system.
+
+### [ACT 2B & ACT 3 PLAN TO BE REFINED DURING WRITING]
 
 ---
 
